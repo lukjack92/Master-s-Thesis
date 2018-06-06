@@ -1,0 +1,4 @@
+PhysicalManual.MainActivity, PhysicalManual;md5a939d3fe05d473b308f6a1e11a6bb16a.MainActivity
+PhysicalManual.MainActivity, PhysicalManual, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a939d3fe05d473b308f6a1e11a6bb16a.MainActivity
+PhysicalManual.MainActivity;md5a939d3fe05d473b308f6a1e11a6bb16a.MainActivity
+physicalmanual.MainActivity;md5a939d3fe05d473b308f6a1e11a6bb16a.MainActivity
